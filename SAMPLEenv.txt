@@ -3,3 +3,5 @@ SPRING_NEO4J_AUTH_USERNAME=authUsername # username to access neo4j database
 SPRING_NEO4J_AUTH_PASSWORD=authPassword # password to access neo4j database
 SPRING_SECURITY_USER_NAME=apiUsername # username to access neo4j API
 SPRING_SECURITY_USER_PASSWORD=apiPassword # password to access neo4j API
+AWS_ACCESS_KEY_ID=your_access_key
+AWS_SECRET_ACCESS_KEY= your_secret_key
