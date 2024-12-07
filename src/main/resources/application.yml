@@ -1,0 +1,14 @@
+spring:
+  neo4j:
+    uri: ${SPRING_NEO4J_URI}
+    authentication:
+      username: ${SPRING_NEO4J_AUTH_USERNAME}
+      password: ${SPRING_NEO4J_AUTH_PASSWORD}
+  config:
+    activate:
+      on-profile: default
+  security:
+    user:
+      name: ${SPRING_SECURITY_USER_NAME}
+      password: ${SPRING_SECURITY_USER_PASSWORD}
+  
