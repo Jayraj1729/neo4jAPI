@@ -1,0 +1,5 @@
+SPRING_NEO4J_URI=bolt://neo4j:7687
+SPRING_NEO4J_AUTH_USERNAME=authUsername # username to access neo4j database
+SPRING_NEO4J_AUTH_PASSWORD=authPassword # password to access neo4j database
+SPRING_SECURITY_USER_NAME=apiUsername # username to access neo4j API
+SPRING_SECURITY_USER_PASSWORD=apiPassword # password to access neo4j API
